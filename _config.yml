@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-ES"
+title                    : "PhD Roi Santos / Research Statement"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Roi Santos"
+description              : &description "Research Statement"
+url                      : https://roisantos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "roisantos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,29 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Roi Santos"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Since 2014 I am affiliated with the Department of Electronics and Computer Science (USC), where I pursued my PhD in Computer Vision for the subsequent 5 years. During my PhD I have broaden my knowledge about \textbf{designing and implementing algorithms for Computer Vision and signal processing}. I went through the scientific process of building my test cases in order to validate the algorithms. I also built backends to retrieve results and compare them with other models in the state of the art. Finally, I built frontends and GUI's to present these results, draw figures and publish my work.\\
+During the last year I have been working in the design, implementation and certification of aeronautical Computer Vision aimed military-grade systems, sensors and communication infrastructures, applied to onboard and cloud systems. Moreover, I kept broadening my knowledge in Data Science. I am fluent in English, Spanish, Galician and Portuguese"
+  location         : "Spain"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://citius.usc.es/investigacion/publicacions/listado?e=false&s=roi-santos-mateos"
+  googlescholar    : "https://citius.usc.es/investigacion/publicacions/listado?e=false&s=roi-santos-mateos"
+  email            : "roi.santos@usc.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://citius.usc.es/investigacion/publicacions/listado?e=false&s=roi-santos-mateos"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xenon3dfx"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/roi-santos-mateos-b7b74940/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
