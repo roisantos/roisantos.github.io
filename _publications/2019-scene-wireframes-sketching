@@ -2,7 +2,7 @@
 title: "Scene wireframes sketching for Unmanned Aerial Vehicles"
 collection: publications
 permalink: /publication/2019-scene-wireframes-sketching
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this work I present a novel method for 3D abstraction of environment. I experimentally compared it against other state of the art method. It is aimed for real-time environment understanding by UAVs. Ranked Q1 in Computer Vision and Pattern Recognition by SJR. DOI	10.1016/j.patcog.2018.09.017.'
 date: 2018-10-01
 venue: 'Pattern Recognition, ELSEVIER SCI LTD'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0031320318303443'
