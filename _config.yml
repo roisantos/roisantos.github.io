@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-ES"
-title                    : "PhD Roi Santos / Research Statement"
+title                    : "PhD Roi Santos - Research Statement"
 title_separator          : "-"
 name                     : &name "Roi Santos"
 description              : &description "Research Statement"
