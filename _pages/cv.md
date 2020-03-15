@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Physics, University of Santiago de Compostela
+* Ph.D in Computer Vision, University of Santiago de Compostela 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current position: R&D Product Engineer in Babcock International Group - Babcock MCSFM SA.
+Current position, since Jan ’19
+Development of Computer Vision and communication applications, design of gimbal-based onboard
+surveillance systems for firefighting and SAR mission aircrafts. Development of software for the control
+and configuration of onboard gimbal-mounted camera systems (visible, IR, multispectral). Aerial
+image orthorectification techniques. Detection of shapes. Photogrammetry. Projection onto 3D terrain.
+I set the requirements and assessment for onboard and cloud systems for surveillance in the largest fleet
+of helicopters for Emergency Services in Spain, including firefighting and sea-rescue. Working with
+military-grade sensing systems and coordinating research groups in different universities keeps me
+updated in the state of the art. Equipment: Trakka gimbals, with InfraTec and FLIR thermographic
+cameras, Sony visible cameras, Microstrain navigation solutions (inertial sensors), GPS, Iridium-based
+modem devices, SVP Broadcast Microwave H265 Aerial Video Transmission, Centum AIS and Lifeseeker.
+Work under ISO 9001 based standards.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills: Signal processing, image processing, electronics, sensors. Software design and implementa-
+tion in C++, Python and Matlab for Windows, Linux and Mac. OpenMP and CUDA, Qt Framework. ROS ,
+RabbitMQ RESTful API. Mathematical libraries: FFTW , BOOST , BLAS/LAPACK , OpenCV , CERES . L A TEX.
+High skilled pilot for fixed wing and multi-rotor drones.
+* Natural languages: Spanish (mother tongue), Galician (mother tongue), Portuguese and English (full professional
+proficiency).
 
 Publications
 ======
