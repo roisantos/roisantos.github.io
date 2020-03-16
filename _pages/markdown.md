@@ -7,48 +7,27 @@ redirect_from:
   - /markdown.html
 ---
 
-## Biography
+In this section I tried to chop my research career in 3 different stages.
+
+## PhD years
 
 Since 2014 I am affiliated with the Department of Electronics and Computer Science (USC), where I pursued my PhD in Computer Vision for the subsequent 5 years. During my PhD I have broaden my knowledge about extbf{designing and implementing algorithms for Computer Vision and signal processing}. I went through the scientific process of building my test cases in order to validate the algorithms. I also built backends to retrieve results and compare them with other models in the state of the art. Finally, I built frontends and GUI's to present these results, draw figures and publish my work.\ During the last year I have been working in the design, implementation and certification of aeronautical Computer Vision aimed military-grade systems, sensors and communication infrastructures, applied to onboard and cloud systems. Moreover, I kept broadening my knowledge in Data Science. I am fluent in English, Spanish, Galician and Portuguese
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Learnt advanced C++
+* Designed my own algorithms
+* Implemented my code.
 
-## Tips and hints
+## Early Stage Researcher
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* Learnt  more advanced object-oriented coding.
+* Learnt C++
+ - Examples: OpenFoam solvers
+* Designed my own algorithms
+* Implemented my code.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Fresh master graduate
+* Learnt  more advanced object-oriented coding.
 
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
 
 > Quotes are cool.
 
