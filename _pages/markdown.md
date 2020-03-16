@@ -9,10 +9,18 @@ redirect_from:
 
 In this section I tried to chop my research career in 3 different stages.
 
+## Post-Doctorate years
+
+Development of Computer Vision and communication applications, design of \textbf{gimbal}-based onboard surveillance systems for firefighting and SAR mission aircrafts. Development of software for the control and configuration of onboard gimbal-mounted camera systems (visible, IR, multispectral). Aerial image orthorectification techniques. Detection of shapes. Photogrammetry. Projection onto 3D terrain. I set the requirements and assessment for onboard and cloud systems for surveillance in the largest fleet of helicopters for Emergency Services in Spain, including firefighting and sea-rescue. Working with \textbf{military-grade sensing systems} and \textbf{coordinating research groups} in different universities keeps me updated in the state of the art. \textbf{Equipment}: Trakka gimbals, with InfraTec and FLIR thermographic cameras, Sony visible cameras, Microstrain navigation solutions (inertial sensors), GPS, Iridium-based modem devices, SVP Broadcast Microwave H265 Aerial Video Transmission, Centum AIS and Lifeseeker. Work under ISO 9001 based standards.
+While still affiliated to USC, I 
+
 ## PhD years
 
-Since 2014 I am affiliated with the Department of Electronics and Computer Science (USC), where I pursued my PhD in Computer Vision for the subsequent 5 years. During my PhD I have broaden my knowledge about extbf{designing and implementing algorithms for Computer Vision and signal processing}. I went through the scientific process of building my test cases in order to validate the algorithms. I also built backends to retrieve results and compare them with other models in the state of the art. Finally, I built frontends and GUI's to present these results, draw figures and publish my work.\ During the last year I have been working in the design, implementation and certification of aeronautical Computer Vision aimed military-grade systems, sensors and communication infrastructures, applied to onboard and cloud systems. Moreover, I kept broadening my knowledge in Data Science. I am fluent in English, Spanish, Galician and Portuguese
+I succeeded publishing the required papers in Q1-ranked journals and presented my work in international congresses. I \textbf{defended and published my PhD thesis in 2019}, awarded with \textbf{Cum Laude}. Refer to the details in in the \textit{Publications} section of this CV.\\I designed, implemented and analyzed my own methods and algorithms. I validated my contributions from experiments performed using my own code, which I developed myself in C++ and Python for Linux/Windows/Mac to work in real-time with Parrot drones. My software performs feature extraction in images, real-time processing of streamed video from the vehicle, and finally 3D environment abstraction using points, lines and targets. I registered my software through the USC transfer office.
 
+My side hustle during my PhD years was closely related with the research and experimental work I was doing in the University. Doing technical support in laboratories got me familiar with rapid prototyping. I have also taught programming for Raspberry Pi with OpenCV and sensors. I have also taught students how to pilot different kinds of fixed wing aircraft and multicopters equipped with ArduPilot, same as I was doing for the experimental part of my research work.
+
+Globally, what I learnt was:
 * Learnt advanced C++
 * Designed my own algorithms
 * Implemented my code.
