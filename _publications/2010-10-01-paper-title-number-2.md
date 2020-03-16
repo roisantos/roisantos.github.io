@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Outlier detection for line matching"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/outlier-rejection-2018
+excerpt: 'Novel outlier detection method teamed for the two-views line matching problem.'
+date: 2018-10-01
+venue: 'ICPR 2018'
+paperurl: 'https://atvs.ii.uam.es/ciarp2018/'
+citation: 'Roi Santos. (2018). &quot;Outlier detection for line matching.&quot; <i>ICPR</i>. 2018.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
