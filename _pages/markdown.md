@@ -1,13 +1,15 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Biography
+
+Since 2014 I am affiliated with the Department of Electronics and Computer Science (USC), where I pursued my PhD in Computer Vision for the subsequent 5 years. During my PhD I have broaden my knowledge about extbf{designing and implementing algorithms for Computer Vision and signal processing}. I went through the scientific process of building my test cases in order to validate the algorithms. I also built backends to retrieve results and compare them with other models in the state of the art. Finally, I built frontends and GUI's to present these results, draw figures and publish my work.\ During the last year I have been working in the design, implementation and certification of aeronautical Computer Vision aimed military-grade systems, sensors and communication infrastructures, applied to onboard and cloud systems. Moreover, I kept broadening my knowledge in Data Science. I am fluent in English, Spanish, Galician and Portuguese
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
