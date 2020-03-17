@@ -39,7 +39,7 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td><img alt="3D Outliers rejection" width="250" src="images/diagrama3D.eps"/></td>
       <td>
         <b>Outlier detection for line matching</b><br />
        Roi Santos, Xose M. Pardo, Xose R. Fdez-Vidal<br />
