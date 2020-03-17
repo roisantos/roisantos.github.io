@@ -17,12 +17,6 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
 1. 
 1. 
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| <td class="paperfigurecol"><img alt="Quantitative Results" width="250" src="images/P12aa.png"/></td>    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
 <table class="paperlisttable">
     <tr>
       <td class="paperfigurecol"><img alt="Quantitative Results" width="250" src="images/P12aa.png"/></td>
