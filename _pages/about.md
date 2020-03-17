@@ -28,19 +28,19 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
       <td class="paperfigurecol"><img alt="Quantitative Results" width="250" src="images/P12aa.png"/></td>
       <td>
         <b>PhD thesis: "From line matching to 3D abstraction"</b><br />
-        Roi Santos<br />
-        In <i>Proc. WACV</i>, 2019.<br />
+        Roi Santos Mateos<br />
+        University of Santiago de Compostela, 2019.<br />
 		<a href="https://citius.usc.es/investigacion/publicacions/listado/from-line-matching-to-3d-abstraction">[Publisher page]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="http://citius.usc.es/sites/default/files/tesis/Tese_RoiSantos.pdf">[PDF]</a>
       </td>
     </tr>
     <tr>
-      <td><img alt="Method sketch" width="250" src="images/cvpr2018methodsketch.png"/></td>
+      <td><img alt="3D wireframes sketching" width="250" src="images/Q12inters0.png"/></td>
       <td>
-        <b>Learning Pose Specific Representations by Predicting Different Views</b><br />
+        <b>Scene wireframes sketching for Unmanned Aerial Vehicles</b><br />
         Georg Poier, David Schinagl and Horst Bischof<br />
-        In <i>Proc. CVPR</i>, 2018. (selected for <b>spotlight</b> presentation)<br />
-		<a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Poier_Learning_Pose_Specific_CVPR_2018_paper.pdf">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        In <i>Pattern Recognition, ELSEVIER SCI LTD , Vol. 86, pp. 354-367 , 2019.</i>.
+		<a href="https://www.sciencedirect.com/science/article/pii/S0031320318303443">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/PreView/">[Project]</a>
       </td>
     </tr>
