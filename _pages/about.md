@@ -48,7 +48,7 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
       </td>
     </tr>
     <tr>
-      <td><img alt="Dataset samples" width="125" src="images/Pleuven0C.png"/></td><td><img alt="Dataset samples" width="125" src="images/Pleuven1C.png"/></td>
+      <td><img alt="Dataset samples" width="125" src="images/Pleuven0C.png"/><img alt="Dataset samples" width="125" src="images/Pleuven1C.png"/></td>
       <td>
         <b>The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation</b><br />
         Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, 
