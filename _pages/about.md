@@ -32,9 +32,8 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
       <td><img alt="3D wireframes sketching" width="250" src="images/Q12inters0.png"/></td>
       <td>
         <b>Scene wireframes sketching for Unmanned Aerial Vehicles</b><br />
-        RoiSantos, Xose M.Pardo, Xose R.Fdez-Vidal<br />
-        In <i>Pattern Recognition, ELSEVIER SCI LTD , Vol. 86, pp. 354-367 , 2019.</i>.
-	      
+        Roi Santos, Xose M. Pardo, Xose R. Fdez-Vidal<br />
+        In <i>Pattern Recognition, ELSEVIER SCI LTD , Vol. 86, pp. 354-367 , 2019.</i>.	     <br /> 
 		<a href="https://www.sciencedirect.com/science/article/pii/S0031320318303443">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/PreView/">[Project]</a>
       </td>
@@ -42,14 +41,14 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
     <tr>
       <td></td>
       <td>
-        <b>Being lazy at labelling for pose estimation</b><br />
-        Georg Poier, David Schinagl and Horst Bischof<br />
-        In <i>Proc. AAPR</i>, 2018. (featured presentation)<br />
-		<a href="https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_27.pdf">[Paper]</a>
+        <b>Outlier detection for line matching</b><br />
+       Roi Santos, Xose M. Pardo, Xose R. Fdez-Vidal<br />
+        In <i>Proc. CIARP</i>, 2018. (featured presentation)<br />
+		<a href="https://atvs.ii.uam.es/ciarp2018/">[CIARP18 proceedings]</a>
       </td>
     </tr>
     <tr>
-      <td><img alt="Dataset samples" width="250" src="images/3dpitotidatasamples.jpg"/></td>
+      <td><img alt="Dataset samples" width="125" src="images/Pleuven0C.png"/></td><td><img alt="Dataset samples" width="125" src="images/Pleuven1C.png"/></td>
       <td>
         <b>The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation</b><br />
         Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, 
