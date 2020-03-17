@@ -32,8 +32,9 @@ I developed applications for Image analysis in Computer Vision and Astronomy. I 
       <td><img alt="3D wireframes sketching" width="250" src="images/Q12inters0.png"/></td>
       <td>
         <b>Scene wireframes sketching for Unmanned Aerial Vehicles</b><br />
-        Georg Poier, David Schinagl and Horst Bischof<br />
+        RoiSantos, Xose M.Pardo, Xose R.Fdez-Vidal<br />
         In <i>Pattern Recognition, ELSEVIER SCI LTD , Vol. 86, pp. 354-367 , 2019.</i>.
+	      
 		<a href="https://www.sciencedirect.com/science/article/pii/S0031320318303443">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/PreView/">[Project]</a>
       </td>
