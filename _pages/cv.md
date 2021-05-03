@@ -16,8 +16,12 @@ Education
 
 Work experience
 ======
-* Current position: R&D Product Engineer in Babcock International Group - Babcock MCSFM SA.
-Current position, since Jan ’19
+* Current position: Postdoctoral position. Tilburg University.
+Current position, since Jun ’20
+Art Attribution using Variational Autoencoders.
+
+* R&D Product Engineer in Babcock International Group - Babcock MCSFM SA.
+Current position, since Jan ’19 - Jun'20
 Development of Computer Vision and communication applications, design of gimbal-based onboard
 surveillance systems for firefighting and SAR mission aircrafts. Development of software for the control
 and configuration of onboard gimbal-mounted camera systems (visible, IR, multispectral). Aerial
